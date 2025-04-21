@@ -1,2 +1,3 @@
+To mitigate potential misuse and ensure the security of cloud manufacturing systems, the source code for SHIE3D model is not publicly released. However, we provide a detailed description of the attack methodology in the paper to support reproducibility. Therefore, here we have only made the attack dataset and the defense code for Z3CDR publicly available.
 # Z3CDR
 Z3CDR combines Zero Trust (ZT) and Content Disarm and Reconstruction (CDR) technologies. Based on the assumption of distrust of all file sources, it believes that every file may contain potential threats. The following is the relevant source code.
