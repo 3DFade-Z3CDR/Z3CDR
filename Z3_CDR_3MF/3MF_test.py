@@ -1,7 +1,7 @@
 import Circular_reference_CDR as ie
 import catalog_examine as ce
 import Steganographic_CDR as SC
-import Build_repetion_CDR as RD
+import Build_repetition_CDR as RD
 import Hollow_Embedding_CDR as MC
 import time
 
