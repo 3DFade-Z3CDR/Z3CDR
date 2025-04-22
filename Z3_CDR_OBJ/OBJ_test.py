@@ -8,7 +8,7 @@ if __name__ == '__main__':
         start_time = time.time()
         dection_times = []
         for i in range(1,101):
-            # Establish the file path: take Build_repetition as an example. Assume there are 100 STL files in the folder.
+            # Establish the file path: take Build_repetition as an example. Assume there are 100 OBJ files in the folder.
 
             infile = "../Dataset/attack_obj/Build Repetition Attack/rebuild_data_"+str(i)+".obj"
             outfile = "Z3_CDR_OBJ/Defense_OBJ/defense_data_"+str(i)+".obj"
