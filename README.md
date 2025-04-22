@@ -88,7 +88,7 @@ Detect and defend against build_repetition and **model_overlap** attacks in STEP
 
 Detect and defend against Steganographic attacks (include Weak Attack、Regular Attack、Strong Attack) in STEP files
 
-### OBJ_test.py
+### STEP_test.py
 
 Detect and defend against attacks on STEP files, these attacks include Build_repetition、Model_overlap、Steganographic(Weak Attack、Regular Attack、Strong Attack)
 
